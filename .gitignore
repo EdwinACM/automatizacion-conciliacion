@@ -1,0 +1,11 @@
+# Se regeneran con ejecutar_todo.py
+datos/
+salidas/
+auditoria/
+# copias de conflicto de OneDrive
+*\ 2/
+
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
